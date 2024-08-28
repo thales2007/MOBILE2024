@@ -13,9 +13,9 @@
 }
 .container{
     display: flex;
-    align-items: center;
+    
 }
 .container_imagem{
-    padding: 1em;
     align-items: center;
+    padding: 1em;
 }
