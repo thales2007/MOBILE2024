@@ -1,4 +1,4 @@
-.cabecalho-menu-hamburger{
+.cabecalho-menu-hamburguer{
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -11,14 +11,15 @@
 }
 .container{
     display: flex;
-    
+    align-items: center;
 }
 .container_imagem{
-    align-items: center;
+    display: flex;
+    justify-content: flex-start;    
     padding: 1em;
 }
 .poppins-regular {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
